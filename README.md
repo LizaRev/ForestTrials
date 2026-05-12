@@ -36,4 +36,3 @@ Audio integration and synchronization.
 
 Clean project structure and asset management
 
-![Watch the video](Video.MP4)
